@@ -1,0 +1,22 @@
+{
+  "startups": [
+    {
+      "id": 1,
+      "name": "EcoVolve",
+      "mission": "Lutter contre la déforestation via des drones planteurs d’arbres.",
+      "sector": "Environnement",
+      "logo": "https://via.placeholder.com/150",
+      "website": "https://ecovolve.example.com",
+      "location": "Paris, France"
+    },
+    {
+      "id": 2,
+      "name": "HealthBridge",
+      "mission": "Faciliter l’accès aux soins dans les zones rurales.",
+      "sector": "Santé",
+      "logo": "https://via.placeholder.com/150",
+      "website": "https://healthbridge.example.com",
+      "location": "Nairobi, Kenya"
+    }
+  ]
+}
