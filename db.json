@@ -2,21 +2,103 @@
   "startups": [
     {
       "id": 1,
-      "name": "EcoVolve",
-      "mission": "Lutter contre la déforestation via des drones planteurs d’arbres.",
+      "name": "Too Good To Go",
+      "mission": "Lutter contre le gaspillage alimentaire en connectant les commerces et les consommateurs pour sauver des invendus.",
       "sector": "Environnement",
-      "logo": "https://via.placeholder.com/150",
-      "website": "https://ecovolve.example.com",
-      "location": "Paris, France"
+      "logo": "https://upload.wikimedia.org/wikipedia/fr/thumb/7/78/Too_Good_To_Go_logo.png/1200px-Too_Good_To_Go_logo.png",
+      "website": "https://toogoodtogo.com",
+      "location": "Copenhague, Danemark",
+      "description": "Plateforme permettant aux utilisateurs d'acheter des paniers surprises composés d'invendus à prix réduit."
     },
     {
       "id": 2,
-      "name": "HealthBridge",
-      "mission": "Faciliter l’accès aux soins dans les zones rurales.",
+      "name": "Yuka",
+      "mission": "Aider les consommateurs à choisir des produits alimentaires et cosmétiques sains via un scan transparent.",
       "sector": "Santé",
-      "logo": "https://via.placeholder.com/150",
-      "website": "https://healthbridge.example.com",
-      "location": "Nairobi, Kenya"
+      "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/73/Yuka_Logo.svg/1200px-Yuka_Logo.svg.png",
+      "website": "https://yuka.io",
+      "location": "Paris, France",
+      "description": "Application mobile qui scanne les produits et évalue leur impact sur la santé."
+    },
+    {
+      "id": 3,
+      "name": "Back Market",
+      "mission": "Promouvoir l’économie circulaire en vendant des appareils électroniques reconditionnés.",
+      "sector": "Technologie",
+      "logo": "https://upload.wikimedia.org/wikipedia/fr/thumb/9/9e/Backmarket_logo.svg/1200px-Backmarket_logo.svg.png",
+      "website": "https://www.backmarket.fr",
+      "location": "Paris, France",
+      "description": "Marketplace spécialisée dans la vente d'appareils électroniques reconditionnés avec garantie."
+    },
+    {
+      "id": 4,
+      "name": "EcoVadis",
+      "mission": "Évaluer les entreprises sur leurs pratiques RSE (Responsabilité Sociétale des Entreprises).",
+      "sector": "Économie durable",
+      "logo": "https://ecovadis.com/wp-content/uploads/2020/10/ecovadis-logo.svg",
+      "website": "https://ecovadis.com",
+      "location": "Paris, France",
+      "description": "Plateforme de notation RSE pour les chaînes d'approvisionnement mondiales."
+    },
+    {
+      "id": 5,
+      "name": "Phenix",
+      "mission": "Réduire le gaspillage en redistribuant les invendus aux associations et particuliers.",
+      "sector": "Social",
+      "logo": "https://phenix.s3.eu-west-3.amazonaws.com/static/img/logo-phenix.svg",
+      "website": "https://wearephenix.com",
+      "location": "Paris, France",
+      "description": "Solution anti-gaspi pour les entreprises et particuliers via des dons et ventes à prix réduits."
+    },
+    {
+      "id": 6,
+      "name": "Lita.co",
+      "mission": "Permettre aux épargnants d’investir dans des startups à impact positif.",
+      "sector": "Finance solidaire",
+      "logo": "https://lita.co/assets/images/logo.svg",
+      "website": "https://lita.co",
+      "location": "Paris, France",
+      "description": "Plateforme d'investissement dédiée aux projets sociaux et environnementaux."
+    },
+    {
+      "id": 7,
+      "name": "1083",
+      "mission": "Produire des jeans et vêtements éco-responsables en France (circuit court).",
+      "sector": "Mode durable",
+      "logo": "https://www.1083.fr/wp-content/uploads/2021/01/logo-1083.svg",
+      "website": "https://www.1083.fr",
+      "location": "Romans-sur-Isère, France",
+      "description": "Marque de vêtements fabriqués en France avec des matériaux durables."
+    },
+    {
+      "id": 8,
+      "name": "HelloAsso",
+      "mission": "Offrir une solution de paiement gratuite pour les associations et collectifs solidaires.",
+      "sector": "Tech for Good",
+      "logo": "https://www.helloasso.com/assets/img/logo.svg",
+      "website": "https://www.helloasso.com",
+      "location": "Paris, France",
+      "description": "Plateforme de collecte de fonds sans frais pour les associations."
+    },
+    {
+      "id": 9,
+      "name": "MobilitéForAll",
+      "mission": "Louer des véhicules adaptés aux personnes en situation de handicap.",
+      "sector": "Mobilité inclusive",
+      "logo": "https://mobiliteforall.com/wp-content/uploads/2023/03/logo-mobiliteforall.svg",
+      "website": "https://mobiliteforall.com",
+      "location": "Lyon, France",
+      "description": "Service de location de véhicules handi-accessibles entre particuliers."
+    },
+    {
+      "id": 10,
+      "name": "Enercoop",
+      "mission": "Fournir une électricité 100% renouvelable et coopérative.",
+      "sector": "Énergie verte",
+      "logo": "https://www.enercoop.fr/sites/default/files/logo-enercoop.png",
+      "website": "https://www.enercoop.fr",
+      "location": "Paris, France",
+      "description": "Fournisseur d'électricité issue des énergies renouvelables et gérée en coopérative."
     }
   ]
 }
